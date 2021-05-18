@@ -1,1 +1,0 @@
-# Makkajai-Dev-Challenge
