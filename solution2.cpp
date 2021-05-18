@@ -110,12 +110,12 @@ void solution(std::vector<std::vector<int>> &test){
 
 
 int main(){
-	std::vector<std::vector<int>> test1{{1,1},{1,2},{2,1},{2,2}};                          //testcases for the problem
+	std::vector<std::vector<int>> test1{{1,1},{1,2},{2,1},{2,2}};                         
 	std::vector<std::vector<int>> test2{{0,1},{1,0},{2,1},{0,2},{1,2}};
 	std::vector<std::vector<int>> test3{{1,1},{1,0},{1,2}};
 	std::vector<std::vector<int>> test4{{1,1},{1,2},{1,3},{2,2},{2,3},{2,4}};
 	
-	solution(test1);                                                                       //solving and printing
+	solution(test1);                                                                      
 	std::cout<<"...........\n";
 	solution(test2);
 	std::cout<<"...........\n";
